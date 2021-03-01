@@ -9,8 +9,8 @@ Computational education consortium
 <tbody>
 
 <tr>
-<td><p>Community College</p></td>
-<td><p>Faculty</p></td>
+<td><p>**Community College**</p></td>
+<td><p>**Faculty**</p></td>
 </tr>
 
 <tr>
